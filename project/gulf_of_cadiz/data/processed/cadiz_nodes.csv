@@ -1,0 +1,44 @@
+group_name,group,n_prey,n_predators,diet_share_sum,cannibal,trophic_level,role
+Adult hake,fishes,21,3,0.652,True,4.115,intermediate
+Anchovy,fishes,1,14,1.5,False,3.0,intermediate
+Anglerfishes,fishes,9,0,0.0,False,4.836,top predator
+Benthic cephalopods,invertebrates & plankton,15,24,0.6704,True,3.888,intermediate
+Benthic invertebrates C,invertebrates & plankton,6,15,0.7971,True,2.672,intermediate
+Benthic invertebrates FDS,invertebrates & plankton,1,18,1.4954,False,2.0,intermediate
+Benthopelagic cephalopods,invertebrates & plankton,17,12,0.721,True,3.766,intermediate
+Bivalves,invertebrates & plankton,2,15,1.12943,False,2.0,intermediate
+Blue whiting,fishes,8,5,0.082,False,3.415,intermediate
+Commercial sparids 1,fishes,16,3,0.04,False,3.266,intermediate
+Commercial sparids 2,fishes,17,2,0.414,False,3.821,intermediate
+Common octopus,invertebrates & plankton,9,4,0.01,False,3.924,intermediate
+Crabs,invertebrates & plankton,12,22,2.075,True,2.919,intermediate
+Deep-sea fishes,fishes,12,7,0.094,False,3.483,intermediate
+Demersal fishes,fishes,20,8,0.2702,False,3.478,intermediate
+Demersal piscivores,fishes,23,3,0.023,True,4.294,intermediate
+Detritus,non-living,0,11,5.134,False,1.0,basal
+Discard,non-living,0,4,0.635,False,1.0,basal
+Dolphins,"marine mammals, birds, turtles",18,0,0.0,False,4.49,top predator
+Flatfishes,fishes,17,9,0.21803,True,3.591,intermediate
+Gelatinous zooplankton,invertebrates & plankton,3,6,0.184,True,2.895,intermediate
+Horse mackerels,fishes,5,9,0.33841,False,3.199,intermediate
+Juvenile hake,fishes,13,7,0.319301,True,3.7,intermediate
+Killer whales,"marine mammals, birds, turtles",6,0,0.0,False,4.545,top predator
+Large benthopelagic fishes,fishes,7,5,0.13,False,3.567,intermediate
+Loggerhead turtles,"marine mammals, birds, turtles",5,0,0.0,False,3.18,top predator
+Mackerels,fishes,9,7,0.798,False,3.569,intermediate
+Macrozooplankton,invertebrates & plankton,3,24,3.8872999999999998,False,2.1,intermediate
+Mantis shrimp,invertebrates & plankton,8,4,0.010015,False,3.267,intermediate
+Meso and microzooplankton,invertebrates & plankton,1,16,4.237002,False,2.0,intermediate
+Mullets,fishes,13,1,0.001,False,3.409,intermediate
+Norway lobster,invertebrates & plankton,12,2,0.025,False,3.491,intermediate
+Phytoplankton,invertebrates & plankton,0,10,1.963,False,1.0,basal
+Polychaetes,invertebrates & plankton,2,17,1.314,False,2.0,intermediate
+Rose shrimp,invertebrates & plankton,12,12,0.285,False,3.174,intermediate
+Sardine,fishes,2,10,1.25803,False,2.946,intermediate
+Seabirds,"marine mammals, birds, turtles",7,0,2e-05,True,3.092,top predator
+Sharks,fishes,25,2,0.0073,True,4.069,intermediate
+Shrimps,invertebrates & plankton,9,27,2.991,True,2.902,intermediate
+Skates,fishes,14,0,0.0,False,3.698,top predator
+Small benthopelagic fishes,fishes,5,16,0.9212,True,3.076,intermediate
+Small demersal fishes,fishes,9,19,1.214,True,3.159,intermediate
+Suprabenthos,invertebrates & plankton,3,24,3.3081,False,2.1,intermediate
